@@ -18,6 +18,7 @@ a {
 
 .head-active{
 	color: #6C6D6E;
+	font-weight: bold;
 }
 
 a:hover,
